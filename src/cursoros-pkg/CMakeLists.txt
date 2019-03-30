@@ -1,4 +1,4 @@
-#QUal a versao que o CMAKE precisa
+#Qual a versao que o CMAKE precisa
 cmake_minimum_required(VERSION 2.8.3)
 
 #Nome do pacote
