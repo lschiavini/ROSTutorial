@@ -1,0 +1,8 @@
+prefix=/home/skira/Desktop/DROID/CursoROS/devel
+
+Name: cursoros-pkg
+Description: Description of cursoros-pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/skira/Desktop/DROID/CursoROS/devel/lib 
+Requires: 

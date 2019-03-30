@@ -1,0 +1,2 @@
+cursoros-pkg
+-DCATKIN_DEVEL_PREFIX=/home/skira/Desktop/DROID/CursoROS/devel -DCMAKE_INSTALL_PREFIX=/home/skira/Desktop/DROID/CursoROS/install -G Unix Makefiles
